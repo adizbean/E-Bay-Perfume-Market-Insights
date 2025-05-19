@@ -2,11 +2,11 @@
 ## Project Overview
 This project aims to explore market insights for perfumes sold on the E-Bay platform, and the entire analysis process is carried out through the following stages:
 
-Data Cleaning and Analysis with Python
-The dataset is cleaned and prepared using Python (pandas, numpy) to remove duplicate data, handle missing values, and perform in-depth analysis.
-
-Visualization and Interactive Dashboard with Tableau
-After the data is cleaned, data exploration and the creation of an interactive dashboard are performed using Tableau. This dashboard displays key information such as the countries with the highest number of sellers, best-selling product categories, as well as price trends and buyer preferences based on gender and location.
+- Data Cleaning and Analysis with Python
+  The dataset is cleaned and prepared using Python (pandas, numpy) to remove duplicate data, handle missing values, and perform in-depth analysis.
+- Visualization and Interactive Dashboard with Tableau
+  After the data is cleaned, data exploration and the creation of an interactive dashboard are performed using Tableau. This dashboard displays key information such as the
+  countries with the highest number of sellers, best-selling product categories, as well as price trends and buyer preferences based on gender and location.
 
 This project provides a comprehensive overview of the perfume market conditions on the E-Bay platform and can serve as a reference for data-driven business decision-making.
 
@@ -27,7 +27,8 @@ Objective: Analyze market data related to the fragrance industry, consumer trend
 
 ## Conclusion & Recommendations
 - New Variants: It is necessary to launch premium products in the Eau De Parfum and Eau De Toilette categories, with supporting products in Eau De Cologne.
-- Current Sales Trends: Besides optimizing pricing around USD 43, driving factors such as promotions or seasonal trends should be considered; therefore, optimizing campaign strategies is recommended.
+- Current Sales Trends: Besides optimizing pricing around USD 43, driving factors such as promotions or seasonal trends should be considered; therefore, optimizing campaign
+  strategies is recommended.
 - Outlet Store: Considering current international regulations and significant demand in Asia, opening new branches in China and Hong Kong can be initiated.
 
 ## Tools & Libraries
